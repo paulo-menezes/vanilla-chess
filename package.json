@@ -1,0 +1,12 @@
+{
+  "name": "vanilla-chess",
+  "version": "1.0.0",
+  "description": "A simple vanilla chess",
+  "main": "main.js",
+  "repository": "git@github.com:paulo-menezes/vanilla-chess.git",
+  "author": "Paulo Menezes <paulohenryquemenezes@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^6.1.0"
+  }
+}
